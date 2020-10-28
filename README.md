@@ -21,6 +21,8 @@ This application is a optin for a membership, which  has input values for the us
 
 **Summary**
 
+To begin the application download and install all the npm install packages.
+
 JS Folder: Starts to application
 The application begins in the js folder with the signup, members and login js files. These folders take in the values of a new user trying to register or an existing user loggin in. So, the user chooses to sign in as an existing member or a new user to sign up. 
 
@@ -31,6 +33,8 @@ User.js / passport.js
 The User.js folder handles the existing user / new user registration process making sure that the user doesn't leave the email and password input blank (null). Then the passport.js file is responsible for the verification of existing members. 
 
 Finally the html-routes.js execute all of the front-end html and css accordingly. 
+
+
 
 
 
