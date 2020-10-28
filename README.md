@@ -34,8 +34,13 @@ The User.js folder handles the existing user / new user registration process mak
 
 Finally the html-routes.js execute all of the front-end html and css accordingly. 
 
+Server.js
 
+This file is part of the server connection piece that creates the local host, to run on both the local machine and database. 
 
+The Config.js 
+
+This file verfies the MySQL password to connect to the database. 
 
 
 
